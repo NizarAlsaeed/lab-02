@@ -1,0 +1,11 @@
+
+select{
+    border: 2px solid black;
+}
+
+
+
+div:hover{
+    background-color: rgba(95, 173, 196, 0.616);
+}
+
